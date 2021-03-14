@@ -1,0 +1,37 @@
+﻿<Properties GitUserInfo="UsingMD" StartupConfiguration="{7C2D70BB-1999-4812-A991-E35A0B8329AC}|Default">
+  <MonoDevelop.Ide.ItemProperties.src.Catalog.Catalog.API FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="src/Catalog/Catalog.API/Controllers/CatalogController.cs">
+    <Files>
+      <File FileName="src/Catalog/Catalog.API/Controllers/CatalogController.cs" Line="32" Column="10" />
+      <File FileName="src/Catalog/Catalog.API/Entities/Product.cs" />
+      <File FileName="src/Catalog/Catalog.API/appsettings.json" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MPlayground" expanded="True">
+            <Node name="src" expanded="True">
+              <Node name="Catalog" expanded="True">
+                <Node name="Catalog.API" expanded="True">
+                  <Node name="Controllers" expanded="True">
+                    <Node name="CatalogController.cs" selected="True" />
+                  </Node>
+                  <Node name="Settings" expanded="True">
+                    <Node name="Classes" expanded="True" />
+                    <Node name="Interfaces" expanded="True" />
+                  </Node>
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
